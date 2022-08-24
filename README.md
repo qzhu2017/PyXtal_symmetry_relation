@@ -10,3 +10,6 @@ This is a public repository to explain the work in [Symmetry Relation Database a
 - [Demo.ipynb](https://nbviewer.org/github/qzhu2017/PyXtal_symmetry_relation/blob/main/Demo.ipynb): a tutorial to explain the concepts of symmetry relation and the relevant tools in PyXtal for the automated analysis of symmetry relation. 
 
 To run the tutorial, it is required to to install [PyXtal](https://github.com/qzhu2017/PyXtal) via `pip install pyxtal`.
+
+## Figures
+The related scripts to plot the figures in [Zhu, et al](https://arxiv.org/abs/2208.10655).
